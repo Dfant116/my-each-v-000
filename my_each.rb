@@ -6,3 +6,4 @@ def my_each(array)
     return word
   end
 end
+end
