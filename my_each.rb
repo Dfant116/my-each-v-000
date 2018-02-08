@@ -3,6 +3,6 @@ def my_each(array)
     array.collect do |word|
     return word
   end
-  array 
 end
+array 
 end
