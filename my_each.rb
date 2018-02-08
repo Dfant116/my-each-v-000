@@ -4,8 +4,7 @@ def my_each(array)
   while words_returned < words_in_array
     array.collect do |word|
     return word
-    words_returned += 1
   end
 end
-array 
+array
 end
