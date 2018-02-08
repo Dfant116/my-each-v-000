@@ -1,6 +1,6 @@
 def my_each(array)
   collection = []
-  while condition
-
+  my_each(array) do |word|
+    puts word
   end
 end
