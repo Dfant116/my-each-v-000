@@ -4,5 +4,4 @@ def my_each(array)
   while words_returned < words_in_array
     return word
   end
-  end
 end
