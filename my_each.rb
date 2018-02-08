@@ -1,5 +1,5 @@
 def my_each(array)
-  while array < 4
+  while 0 < array
     array.collect do |word|
     return word
   end
