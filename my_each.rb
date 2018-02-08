@@ -5,4 +5,5 @@ def my_each(array)
     my_each(array) do |word|
     return word
   end
+  end
 end
