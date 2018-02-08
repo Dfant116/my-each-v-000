@@ -4,6 +4,7 @@ def my_each(array)
   while words_returned < words_in_array
     my_each(array) do |word|
     return word
+    break
   end
   end
 end
