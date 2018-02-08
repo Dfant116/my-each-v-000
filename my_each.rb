@@ -7,4 +7,5 @@ def my_each(array)
     words_returned += 1
   end
 end
+array 
 end
