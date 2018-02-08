@@ -1,5 +1,6 @@
 def my_each(array)
-  while 0 < array.size
+  i = 0
+  while i < array.size
     array.map do |word|
     return word
   end
